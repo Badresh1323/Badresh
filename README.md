@@ -12,18 +12,22 @@ I enjoy turning ideas into working projects, breaking things to understand how t
 
 ## 🧠 What I'm Exploring
 
-🔹 **Programming**
+ ## 🧠 What I'm Exploring
+
+🔹 Programming
 Strengthening Java, Python, OOP, problem-solving and data structures.
 
-🔹 **AI & Applications**
-Exploring how modern AI tools and APIs can be used to build practical applications — beyond just writing prompts.
+🔹 AI & Modern Tools
+Exploring how AI tools, APIs and intelligent systems can be used
+to build practical applications.
 
-🔹 **Web & Cloud**
-Learning how frontend, backend, APIs, databases and cloud environments connect together.
+🔹 Web & Cloud
+Learning how frontend, backend, APIs, databases and cloud
+environments connect together.
 
-🔹 **Security**
-Exploring cybersecurity fundamentals and learning how to build software with security in mind.
-
+🔹 Security
+Exploring cybersecurity fundamentals and learning how to
+build software with security in mind.
 ---
 
 ## 🚀 How I Learn
